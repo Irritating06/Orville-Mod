@@ -1,40 +1,214 @@
 [
+	 {
+		"name": "Moclans",
+		"leaderName": "Bortus",
+		"adjective": ["Moclan"],
+		"startBias": ["Plain"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": "As Moclans we hold our cultural believes very highly while pushing forwards in construction and improvement of weaponary.",
+		"startIntroPart2": "So Bortus bring us forward and show the world our superiosity!",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "I do not appriciate this action against our people.",
+		"defeated": "Youre military has won but you may never destroy the superior culture of the Moclans",
+		"denounced": "You seem to have no understanding of the actions you are taking!",
+		"introduction": "Hello, as superiors we hope of your respect.",
+
+		"neutralHello": "Greetings",
+		"hateHello": "Who dares...",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [255, 186, 176],
+		"innerColor": [143, 46, 31],
+		"favoredReligion": "Islam",
+		"uniqueName": "Da´klaya",
+		"uniques": ["[+50]% City-State Influence degradation", "[-30]% growth [in this city]",,"[+75]% [Culture]", "[+30]% Production when constructing [Melee] units [in capital]"],
+		"cities": ["Moclus","Draconis","Inner Industries","Moclania","Malepolis","Conformania","City of Arms","Sanctuary","Outer Industries","Old Test Site","Mocania",
+			"Steamington","Borkly","Outpost"],
+        "spyNames": ["Bortus", "Klyden", "Heveena", "Topa", "Locar", "Dojin", "Kalba", "He veena",]
+    },
+	
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"name": "Calivons",
+		"leaderName": "Administrator",
+		"adjective": ["Calivon"],
+		"startBias": ["hill"],
+		"preferredVictoryType":"Cultural",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"startIntroPart1": "We as Calvions stand above others in our technologie and interlect",
+		"startIntroPart2": "Lead this nation and show our people the interesting liveforms of afar!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"declaringWar": "You serve us no purpose",
+		"attacked": "You fools shall end in our Zoos!",
+		"defeated": "How could this be possible?",
+		"denounced": "You are worthy of no respect!",
+		"introduction": "What a specimen!",
+
+		"neutralHello": "Greetings",
+		"hateHello": "Hello...",
+
+		"tradeRequest": "How could one refuse this offer?",
+
+		"outerColor": [156, 17, 0],
+		"innerColor": [87, 77, 77],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Calvion Zoo",
+		"uniques": [ "[+7 Happiness] <upon discovering [Trapping] technology>", "[+15]% [Culture] [in all cities with a Museum]"],
+		"cities": ["Calivon Capital","Calivonia","Nidalia","City of Development","Entrapment Camps","Holopolia","Teleprom","Redplot","Zooplus"],
+        "spyNames": ["Nidal"]
+    },
+	
+	 {
+		"name": "Humans",
+		"leaderName": "Ed Mercer",
+		"adjective": ["Human"],
+		"startBias": ["Coast"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": "We Humans have evolved past our old destructive ways and plan on a future of planitary unison ",
+		"startIntroPart2": "We hope that you can show the world that even something as fragile as a human can be important!",
+
+		"declaringWar": "You have no Idea in how much truble you are.",
+		"attacked": "You will see that Humans don´t take this easy",
+		"defeated": "So Humanity is crushed...",
+		"denounced": "I have nothing but hatred for you.",
+		"introduction": "Welcome, we hope this is a start of a great partnership!",
+
+		"neutralHello": "Hello",
+		"hateHello": "Yea?",
+
+		"tradeRequest": "May I give you this offer?",
+
+		"outerColor": [150, 255, 240],
+		"innerColor": [2, 199, 170],
+		"favoredReligion": "Cristianity",
+		"uniqueName": "Devotion for the unknown",
+		"uniques": ["[+1] Sight <for [{Military} {Land}] units>", "[+2 Science] from every specialist [in all cities]", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["London","Berlin","Paris","Warsaw","Moscow","Beijing","Tokyo","Madrid","Addis Abeba","Kairo","Abuja",
+			"Victoria","Brasilia","Buenos Aires","Washington DC","Canberra","Sydney","Oslo","Ulaanbaatar",],
+        "spyNames": ["Cassius", "Kelly", "Claire", "Tucker", "Gordon", "Janice Lee", "John", "Tom Halsey",]
+    },
+	
+	 {
+		"name": "Kaylon",
+		"leaderName": "Kaylon Primary",
+		"adjective": ["Kaylon"],
+		"startBias": ["Avoid [Coast]"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "We Kaylon have suffured under our prior owners and have fought for our freedom against the tyranny and torture they put onto us.",
+		"startIntroPart2": "We have to make sure that no being must ever act in that way again, even if it means Anihalation of Biologicals.",
+
+		"declaringWar": "We cannot trust you to continue existing.",
+		"attacked": "We will show that we are not to be oppressed",
+		"defeated": "shutting down. . .",
+		"denounced": "You Biologicals are flawed",
+		"introduction": "Greetings, I hope we can get around the trouble.",
+
+		"neutralHello": "Hello",
+		"hateHello": "...",
+
+		"tradeRequest": "This offer should be of interest for both parties.",
+
+		"outerColor": [156, 6, 46],
+		"innerColor": [36, 46, 43],
+		"favoredReligion": "Islam",
+		"uniqueName": "Robotic Perfection",
+		"uniques": ["No damage penalty for wounded units <for [Melee] units>", "[+15]% Strength", "Gain an extra spy <upon entering the [Medival]>"],
+		"cities": ["Kaylon 1","Kaylon 2","Kaylon 3","Kaylon 4","Kaylon 5","Kaylon 6","Kaylon 7","Kaylon 8","Kaylon 9","Kaylon 10",],
+        "spyNames": ["Isaac", "Timmis", "K-1", "Kaylon Secondary", "Kaylon Tertiary",]
+    },
+	
+	 {
+		"name": "Xelayans",
+		"leaderName": "Alara",
+		"adjective": ["Xelayan"],
+		"startBias": ["coast"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": "We Xelayans are known for our devotion to science and advanced physical strength and hopes of warless futures.",
+		"startIntroPart2": "Let us move through time, advancing and building to bring greatness to the world!",
+
+		"declaringWar": "we do not wish this, but it has to be done...",
+		"attacked": "Your Aggressive progression will be your doom!",
+		"defeated": "So this is it... After all this time...",
+		"denounced": "We cannot trust you at all!",
+		"introduction": "We hope of peace and trade between us.",
+
+		"neutralHello": "Welcome",
+		"hateHello": "What is it?",
+
+		"tradeRequest": "What about the following?",
+
+		"outerColor": [222, 204, 0],
+		"innerColor": [196, 154, 245],
+		"favoredReligion": "Cristianity",
+		"uniqueName": "Xelayan Evolution",
+		"uniques": ["[+25]% Strength", "[+10]% Production [in all cities]", "[+2 Science] from every [Great Improvement]", "[-15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[-15]% Production when constructing [Land] units"],
+		"cities": ["Xelaya","Xenara","Xelayo","Gravipoint","Downton","Aight","Xelayan Studyground","Xelvik","Xelevia","Xelayan Outpost","Gelxery",
+			"Kitana","Sello","Kelytrex","Plyx"],
+        "spyNames": ["Cambis", "Galdus", "Talla", "Ildis", "Serris", "Drenala", "Solana", "Speria",]
+    },
+	
+	 {
+		"name": "Planetary Union",
+		"leaderName": "Alcuzan",
+		"adjective": ["Citizens"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "The Union was created to protect and bring together all the civilizations ready for unison.",
+		"startIntroPart2": "Let the Union bring wonderfull time to all!",
+
+		"declaringWar": "We hope this can be over quickly to cut losses.",
+		"attacked": "You can try to crush us but you can never crush the wish of freedom!",
+		"defeated": "The Union will be rebuild under a different name by different people in the future. We have not lost!",
+		"denounced": "Your actions are poison to unity",
+		"introduction": "We hope to unite your glorious nation with ours soon!",
+
+		"neutralHello": "Greetings, Friend",
+		"hateHello": "What do you want?",
+
+		"tradeRequest": "Is this of your liking?",
+
+		"outerColor": [222, 186, 13],
+		"innerColor": [6, 59, 148],
+		"favoredReligion": "Cristianity",
+		"uniqueName": "Wish of Union",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [8] turns", "[-80]% unhappiness from the number of cities"],
+		"cities": ["New York City","Antares","Chara","Epsilon","Jintann","Kastra","Rana","Theta Draconis","Belkaria","Antares 2","Chara 2","Epsilon 2","Jintann 2","Kastra 2","Rana 2"
+		,"Antares 3","Chara 4","Epsilon 4","Jintann 4","Kastra 4","Rana 4"],
+        "spyNames": ["Bleriot", "Bohr", "Orville", "Chanute", "Quimby", "Watson", "Spruance", "Olympia",]
+    },
+
+	 {
+		"name": "Krill",
+		"leaderName": "Teleya",
+		"adjective": ["Krill"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "We are the Krill. Powerfull, smart and unstoppable. Our species will remain on top of all and that is how it shall be!",
+		"startIntroPart2": "Crush the unworthy and win the divine fight!",
+
+		"declaringWar": "This is a standard procedure. Get ready to be scavenged!",
+		"attacked": "You want to succumb to us a little sooner I see.",
+		"defeated": "We were not aware of this possibility...",
+		"denounced": "Your kind is unworthy!",
+		"introduction": "I see you are using our future land.",
+
+		"neutralHello": "What do you want?",
+		"hateHello": "Don´t you think you are welcome...",
+
+		"tradeRequest": "For now.",
+
+		"outerColor": [71, 51, 21],
+		"innerColor": [150, 142, 93],
+		"uniqueName": "Worship of domination",
+		"uniques": [ "Cities are razed [3] times as fast", "Earn [80]% of killed [Military] unit's [Strength] as [Culture]","[+10]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"cities": ["Dalakos","Garathon Province","Katal Province","Uvok Province","Kahspidon","Krilltopia","weapons Province","Krill Outpost 1","Krill Outpost 2"]
+        "spyNames": ["Anaya", "Haros", "Korin", "Kratok", "Sazeron", "K.T.Z",]
+    },
 ]
